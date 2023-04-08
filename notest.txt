@@ -1,0 +1,8 @@
+Various Hooks
+https://stackoverflow.com/questions/66429202/what-are-production-use-cases-for-the-useref-usememo-usecallback-hooks
+useRef use cases
+https://frontend-digest.com/6-practical-applications-for-useref-2f5414f4ac68
+React.memo
+https://www.w3schools.com/react/react_memo.asp 
+React Portals
+https://blog.bitsrc.io/understanding-react-portals-ab79827732c7 

@@ -1,0 +1,36 @@
+.lable {
+  width: 50px;
+  height: 50px;
+  /* display: block; */
+  border-radius: 50%;
+  font-size: medium;
+  margin-right: auto;
+  padding: 10px;
+
+  background-color: #d42121;
+  color: aliceblue;
+}
+.div {
+  font-size: large;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: 2px solid red;
+  position: relative;
+}
+.containerLabel {
+  text-align: left;
+  margin-bottom: 10px;
+}
+.btn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 10px;
+  background-color: blueviolet;
+  color: aliceblue;
+  font-size: medium;
+  right: -10px;
+  top: -30px;
+  cursor: pointer;
+}
